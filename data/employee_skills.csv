@@ -1,0 +1,99 @@
+employee_id,skill
+E001,Python
+E001,FastAPI
+E001,LangGraph
+E001,RAG
+E001,PostgreSQL
+E001,LLM
+E001,Docker
+E002,Python
+E002,FastAPI
+E002,PostgreSQL
+E002,SQL
+E002,Docker
+E002,Git
+E003,Python
+E003,LangGraph
+E003,RAG
+E003,Machine Learning
+E003,LLM
+E003,PyTorch
+E004,React
+E004,JavaScript
+E004,Git
+E004,Testing
+E005,Python
+E005,SQL
+E005,Pandas
+E005,PostgreSQL
+E005,Docker
+E005,AWS
+E006,Python
+E006,Pandas
+E006,Data Analysis
+E006,SQL
+E007,SQL
+E007,Data Analysis
+E007,Git
+E008,Docker
+E008,Kubernetes
+E008,AWS
+E008,CI/CD
+E008,Git
+E009,Python
+E009,FastAPI
+E009,PostgreSQL
+E009,Redis
+E009,Docker
+E010,Testing
+E010,Python
+E010,Git
+E011,Python
+E011,Machine Learning
+E011,Deep Learning
+E011,PyTorch
+E011,TensorFlow
+E011,NLP
+E012,AWS
+E012,Azure
+E012,Docker
+E012,Kubernetes
+E012,CI/CD
+E013,Python
+E013,Machine Learning
+E013,Deep Learning
+E013,PyTorch
+E013,TensorFlow
+E014,Cybersecurity
+E014,AWS
+E014,Azure
+E014,Python
+E015,Python
+E015,LangGraph
+E015,RAG
+E015,LLM
+E015,NLP
+E015,FastAPI
+E016,Python
+E016,FastAPI
+E016,PostgreSQL
+E016,Git
+E017,Data Analysis
+E017,SQL
+E017,Git
+E018,Python
+E018,SQL
+E018,Pandas
+E018,PostgreSQL
+E018,AWS
+E019,Python
+E019,Machine Learning
+E019,Deep Learning
+E019,PyTorch
+E019,NLP
+E020,Docker
+E020,Kubernetes
+E020,AWS
+E020,Azure
+E020,CI/CD
+E020,Jenkins

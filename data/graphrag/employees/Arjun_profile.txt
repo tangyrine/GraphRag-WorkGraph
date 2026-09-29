@@ -1,0 +1,6 @@
+Employee: Arjun
+Current Role: DevOps Engineer
+Department: Platform Engineering
+Skills: Docker, Kubernetes, CI/CD, Linux, Python
+Experience: Arjun manages containerized services and CI/CD pipelines. He has experience deploying Python applications with Docker and Kubernetes and maintaining development environments.
+Career Interest: Learn how AI workloads and GraphRAG systems can be deployed reliably.

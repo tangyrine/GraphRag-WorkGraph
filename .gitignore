@@ -1,0 +1,10 @@
+﻿.env
+node_modules/
+.next/
+frontend-damaged/
+frontend-nextjs-backup/
+frontend/node_modules/
+frontend/.next/
+
+.git-old/
+__pycache__/

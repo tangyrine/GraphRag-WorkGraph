@@ -1,0 +1,3 @@
+Role: DevOps Engineer
+Required Skills: Docker, Kubernetes, CI/CD, Linux, Python
+Responsibilities: Build deployment pipelines, operate containerized workloads, and improve application reliability and automation.

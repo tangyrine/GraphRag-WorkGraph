@@ -1,0 +1,5 @@
+Project: E-commerce Recommendation System
+Objective: Build a recommendation service that suggests products based on user behavior and product information.
+Requirements: Python, Machine Learning, PostgreSQL, Data Pipelines
+Description: The project requires data preparation, model development, feature pipelines, and integration with an application backend.
+Relevant experience: Machine learning, Python, SQL, data engineering, and API development are useful.

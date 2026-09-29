@@ -1,0 +1,36 @@
+project_id,skill
+P001,Python
+P001,FastAPI
+P001,LangGraph
+P001,RAG
+P001,PostgreSQL
+P002,Python
+P002,SQL
+P002,Pandas
+P002,Data Analysis
+P003,Python
+P003,FastAPI
+P003,PostgreSQL
+P003,Testing
+P003,Docker
+P004,Python
+P004,Machine Learning
+P004,Deep Learning
+P004,PyTorch
+P005,Docker
+P005,Kubernetes
+P005,AWS
+P005,CI/CD
+P006,Python
+P006,SQL
+P006,PostgreSQL
+P006,AWS
+P007,Python
+P007,Cybersecurity
+P007,AWS
+P007,Testing
+P008,Python
+P008,FastAPI
+P008,React
+P008,JavaScript
+P008,PostgreSQL

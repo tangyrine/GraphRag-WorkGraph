@@ -1,0 +1,5 @@
+Project: Workforce Graph Intelligence
+Objective: Extend the workforce application into a knowledge-driven assistant for project staffing, career development, skill gaps, and learning recommendations.
+Requirements: Neo4j, Python, LangGraph, RAG, Vector Search
+Description: The system combines structured employee-project relationships with unstructured employee and project knowledge. It should identify suitable employees, explain skill gaps, retrieve relevant experience, and provide grounded workforce recommendations.
+Relevant experience: Neo4j, graph modeling, LangGraph, RAG, embeddings, vector retrieval, and Python are valuable.

@@ -1,0 +1,3 @@
+Role: Backend Developer
+Required Skills: Python, FastAPI, REST APIs, PostgreSQL, Docker
+Responsibilities: Build APIs, application services, database integrations, and containerized backend systems.

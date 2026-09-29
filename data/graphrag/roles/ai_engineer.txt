@@ -1,0 +1,3 @@
+Role: AI Engineer
+Required Skills: Python, RAG, LangGraph, Machine Learning, Vector Search
+Responsibilities: Build AI applications, retrieval pipelines, agentic workflows, evaluation processes, and production AI services.

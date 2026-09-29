@@ -1,0 +1,6 @@
+Employee: Neha
+Current Role: Cybersecurity Engineer
+Department: Security
+Skills: Cybersecurity, Python, SIEM, Network Security, Linux
+Experience: Neha works on security monitoring and incident analysis. She has automated security workflows with Python and has experience interpreting SIEM alerts and network events.
+Career Interest: Explore AI-assisted security monitoring and threat detection.

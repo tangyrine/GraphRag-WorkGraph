@@ -1,0 +1,6 @@
+Employee: Priya
+Current Role: Software Engineer
+Department: Engineering
+Skills: Python, FastAPI, RAG, PostgreSQL
+Experience: Priya contributed to a document-search and customer-support platform. She worked on retrieval pipelines, API integration, PostgreSQL persistence, and evaluation of retrieved responses. She has practical RAG experience but less experience with LangGraph orchestration.
+Career Interest: Develop deeper agentic AI and workflow-orchestration skills.

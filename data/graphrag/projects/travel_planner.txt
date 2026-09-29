@@ -1,0 +1,5 @@
+Project: Intelligent Travel Planner
+Objective: Build a multi-step travel planning assistant that coordinates destination research, itinerary generation, and travel recommendations.
+Requirements: Python, LangGraph, API Integration, PostgreSQL
+Description: The application uses multiple workflow steps and external travel information. It needs reliable state passing, API integration, and orchestration of AI-driven tasks.
+Relevant experience: Python services, LangGraph, API integration, workflow design, and database persistence are useful.

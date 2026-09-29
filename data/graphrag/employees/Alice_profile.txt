@@ -1,0 +1,6 @@
+Employee: Alice
+Current Role: AI Engineer
+Department: AI & Automation
+Skills: Python, FastAPI, LangGraph, RAG, PostgreSQL
+Experience: Alice has worked on the AI Customer Assistant, where she built FastAPI services and implemented a retrieval-augmented generation pipeline. She worked with document chunking, retrieval, prompt orchestration, and PostgreSQL-backed application services. She has also used LangGraph to coordinate multi-step AI workflows.
+Career Interest: Continue developing advanced AI engineering and GraphRAG skills.

@@ -1,0 +1,3 @@
+Role: Frontend Developer
+Required Skills: React, JavaScript, TypeScript, HTML, CSS
+Responsibilities: Build responsive user interfaces and integrate frontend applications with backend APIs.

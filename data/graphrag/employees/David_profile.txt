@@ -1,0 +1,6 @@
+Employee: David
+Current Role: Data Engineer
+Department: Data Platform
+Skills: Python, PostgreSQL, SQL, Data Pipelines, Machine Learning
+Experience: David builds data pipelines and analytical services. He has worked with machine-learning datasets and PostgreSQL systems. He has not yet built production RAG applications but understands data preparation and pipeline design.
+Career Interest: Transition toward machine-learning and AI platform engineering.

@@ -1,0 +1,5 @@
+Project: Security Monitoring Platform
+Objective: Build a platform that collects security events and assists analysts in identifying suspicious activity.
+Requirements: Cybersecurity, Python, Linux, SIEM
+Description: The system processes security events, correlates alerts, and supports incident investigation. Automation and security-domain knowledge are important.
+Relevant experience: SIEM, network security, Linux, Python automation, and incident analysis are valuable.

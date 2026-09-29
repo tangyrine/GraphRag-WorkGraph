@@ -1,0 +1,5 @@
+Project: AI Customer Assistant
+Objective: Build an AI assistant that answers customer questions using internal product and support knowledge.
+Requirements: Python, FastAPI, RAG, LangGraph, PostgreSQL
+Description: The system ingests support documents, retrieves relevant information, and generates grounded responses. It requires API development, retrieval pipelines, workflow orchestration, and persistent application data.
+Relevant experience: Experience with document retrieval, RAG, FastAPI, LangGraph, and PostgreSQL is valuable.

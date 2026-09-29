@@ -1,0 +1,21 @@
+id,name,experience,role,department
+E001,Alice,5,AI Engineer,Engineering
+E002,Bob,3,Backend Developer,Engineering
+E003,David,6,AI Engineer,Engineering
+E004,Emma,4,Frontend Developer,Engineering
+E005,Frank,7,Data Engineer,Data
+E006,Grace,2,Data Analyst,Data
+E007,Hannah,5,Project Manager,Management
+E008,Ian,4,DevOps Engineer,Engineering
+E009,Julia,6,Backend Developer,Engineering
+E010,Kevin,3,QA Engineer,Engineering
+E011,Lisa,8,Data Scientist,Data
+E012,Michael,5,Cloud Engineer,Engineering
+E013,Nina,2,ML Engineer,AI
+E014,Oscar,6,Security Engineer,Security
+E015,Priya,4,AI Engineer,AI
+E016,Ryan,3,Backend Developer,Engineering
+E017,Sophia,7,Product Manager,Management
+E018,Tom,5,Data Engineer,Data
+E019,Uma,4,ML Engineer,AI
+E020,Victor,6,DevOps Engineer,Engineering

@@ -1,0 +1,3 @@
+Role: Data Engineer
+Required Skills: Python, SQL, PostgreSQL, Data Pipelines, Machine Learning
+Responsibilities: Build reliable data pipelines, prepare datasets, maintain data systems, and support analytics and machine-learning workloads.

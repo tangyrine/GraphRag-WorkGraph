@@ -1,0 +1,35 @@
+services:
+
+  backend:
+    build:
+      context: ./backend
+    container_name: workgraph-backend
+    env_file:
+      - .env
+    environment:
+      NEO4J_URI: bolt://neo4j:7687
+    ports:
+      - "8000:8000"
+    networks:
+      - workgraph-network
+      - neo4j-network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: workgraph-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - workgraph-network
+    restart: unless-stopped
+
+networks:
+  workgraph-network:
+    driver: bridge
+
+  neo4j-network:
+    external: true

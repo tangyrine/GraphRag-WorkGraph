@@ -1,0 +1,11 @@
+id,name
+T001,Build API
+T002,Build RAG Pipeline
+T003,Train ML Model
+T004,Build Dashboard
+T005,Database Design
+T006,Deploy Application
+T007,Security Testing
+T008,Data Pipeline
+T009,Automated Testing
+T010,Cloud Infrastructure

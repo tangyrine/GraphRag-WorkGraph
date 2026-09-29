@@ -1,0 +1,3 @@
+Role: Cybersecurity Engineer
+Required Skills: Cybersecurity, SIEM, Network Security, Linux, Python
+Responsibilities: Monitor security events, investigate incidents, automate security workflows, and improve threat detection.

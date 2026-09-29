@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+neo4j
+python-dotenv
+langgraph
+langchain
+langchain-groq
+langfuse
+sentence-transformers

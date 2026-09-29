@@ -1,0 +1,5 @@
+Project: Internal HR Portal
+Objective: Build an internal portal for employee information, project assignments, skills, and workforce planning.
+Requirements: React, TypeScript, REST APIs, PostgreSQL, Docker
+Description: The portal provides employee dashboards, project information, assignment management, and workforce analytics.
+Relevant experience: Frontend development, REST APIs, databases, and containerized applications are useful.

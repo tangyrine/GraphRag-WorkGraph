@@ -1,0 +1,52 @@
+role,skill
+AI Engineer,Python
+AI Engineer,LangGraph
+AI Engineer,RAG
+AI Engineer,LLM
+AI Engineer,FastAPI
+Backend Developer,Python
+Backend Developer,FastAPI
+Backend Developer,PostgreSQL
+Backend Developer,SQL
+Backend Developer,Docker
+Frontend Developer,React
+Frontend Developer,JavaScript
+Frontend Developer,Testing
+Data Engineer,Python
+Data Engineer,SQL
+Data Engineer,Pandas
+Data Engineer,PostgreSQL
+Data Engineer,AWS
+Data Scientist,Python
+Data Scientist,Machine Learning
+Data Scientist,Deep Learning
+Data Scientist,Pandas
+Data Scientist,PyTorch
+ML Engineer,Python
+ML Engineer,Machine Learning
+ML Engineer,Deep Learning
+ML Engineer,PyTorch
+ML Engineer,NLP
+DevOps Engineer,Docker
+DevOps Engineer,Kubernetes
+DevOps Engineer,AWS
+DevOps Engineer,CI/CD
+QA Engineer,Testing
+QA Engineer,Python
+QA Engineer,Git
+Project Manager,SQL
+Project Manager,Data Analysis
+Product Manager,SQL
+Product Manager,Data Analysis
+Security Engineer,Cybersecurity
+Security Engineer,AWS
+Security Engineer,Python
+Cloud Engineer,AWS
+Cloud Engineer,Azure
+Cloud Engineer,Docker
+Cloud Engineer,Kubernetes
+Cloud Engineer,CI/CD
+Data Analyst,Python
+Data Analyst,Pandas
+Data Analyst,Data Analysis
+Data Analyst,SQL

@@ -1,0 +1,6 @@
+Employee: Rahul
+Current Role: Frontend Developer
+Department: Product Engineering
+Skills: React, JavaScript, TypeScript, HTML, CSS
+Experience: Rahul develops responsive web interfaces and has integrated frontend applications with REST APIs. He has limited backend and AI experience but is interested in building AI-powered user experiences.
+Career Interest: Move toward full-stack AI application development.

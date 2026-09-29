@@ -1,0 +1,6 @@
+Employee: Julia
+Current Role: Backend Developer
+Department: Engineering
+Skills: Python, REST APIs, PostgreSQL, Docker
+Experience: Julia develops backend APIs and containerized services. She has experience maintaining production services and integrating external APIs. Her direct experience with LLM and retrieval systems is limited.
+Career Interest: Learn AI application development.

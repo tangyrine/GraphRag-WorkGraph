@@ -1,0 +1,6 @@
+Employee: Bob
+Current Role: Backend Developer
+Department: Engineering
+Skills: Python, FastAPI, PostgreSQL, REST APIs, Docker
+Experience: Bob has developed backend services and REST APIs using Python and FastAPI. He has worked with PostgreSQL databases and Dockerized applications. He has limited direct experience with RAG and LangGraph but has strong backend fundamentals and experience integrating APIs.
+Career Interest: Move toward AI-enabled backend engineering.
